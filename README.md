@@ -1,4 +1,4 @@
-# Phishing-Email-Classifications
+# Phishing-Email-Classification
 
 Import all required libraries 
 
